@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-11-10 22:43+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: pt-PT\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-id: keSlyU
+#: app/page.tsx
+msgid "center."
+msgstr ""
+
+#. js-lingui-id: XcVFlz
+#: app/page.tsx
+msgid "Deploy Now"
+msgstr ""
+
+#. js-lingui-id: TvY/XA
+#: app/page.tsx
+msgid "Documentation"
+msgstr ""
+
+#. js-lingui-id: wqxglO
+#: app/page.tsx
+msgid "Learning"
+msgstr ""
+
+#. js-lingui-id: /nrbyk
+#: app/page.tsx
+msgid "Looking for a starting point or more instructions? Head over to"
+msgstr ""
+
+#. js-lingui-id: cKGiL1
+#: app/page.tsx
+msgid "or the"
+msgstr ""
+
+#. js-lingui-id: iTylMl
+#: app/page.tsx
+msgid "Templates"
+msgstr ""

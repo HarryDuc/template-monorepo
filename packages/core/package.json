@@ -1,0 +1,12 @@
+{
+  "name": "packages-core",
+  "version": "0.0.1",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./lesson-service": "./src/lessonService.ts"
+  },
+  "dependencies": {
+    "packages-contracts": "workspace:*"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "packages-shared",
+  "version": "0.0.1",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./translations": "./src/translations/index.ts",
+    "./translations/*": "./src/translations/*",
+    "./utils": "./src/utils/index.ts",
+    "./utils/*": "./src/utils/*"
+  }
+}

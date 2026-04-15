@@ -1,0 +1,13 @@
+{
+  "name": "packages-sdk",
+  "version": "0.0.1",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./lesson-client": "./src/lessonClient.ts"
+  },
+  "dependencies": {
+    "packages-contracts": "workspace:*",
+    "packages-core": "workspace:*"
+  }
+}

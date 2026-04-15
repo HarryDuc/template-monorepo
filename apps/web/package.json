@@ -1,0 +1,18 @@
+{
+  "name": "apps-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "lingui compile && next build",
+    "start": "next start",
+    "lint": "eslint",
+    "lingui:extract": "lingui extract",
+    "lingui:compile": "lingui compile"
+  },
+  "dependencies": {
+    "packages-shared": "workspace:*",
+    "packages-ui": "workspace:*"
+  },
+  "devDependencies": {}
+}

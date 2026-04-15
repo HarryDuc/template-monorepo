@@ -1,0 +1,11 @@
+{
+  "name": "packages-ui",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./state/*": "./src/state/*"
+  },
+  "dependencies": {
+    "recoil": "0.7.7"
+  }
+}
